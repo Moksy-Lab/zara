@@ -75,7 +75,7 @@
     padding: 2.5rem 0
 }
 .aboutd390a380620aac0e .video_card::before {
-    background-color: #EA5252
+    background-color: #808080
 }
 
 .aboutd390a380620aac0e .fa{
@@ -110,7 +110,10 @@
         background: #584E8D
     }
     .footerb6c9fcc0294384085 h5{
-        font-size: 18px
+        font-size: 22px
+    }
+    .footerb6c9fcc0294384085 .h3 {
+        color: #fff
     }
     .footerb6c9fcc0294384085 .fa{
         color: #fff

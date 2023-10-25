@@ -1,14 +1,17 @@
 /*****hanu*****/
 /* #hanu(e871d461930b46f7) #css starts */
-.headere871d461930b46f7 .letter{
-    color: #584E8D
+.headere871d461930b46f7 img{
+    max-height: 35px
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #3C3B37
 }
 .headere871d461930b46f7 .navbar-light .navbar-nav .nav-link:hover {
     color: #584E8D
 }
 .headere871d461930b46f7 .btnregister{
     background-color: #FFC72C;
-    color: #fff;
+    color: #3C3B37;
     border-radius: 5px
 }
 /* #hanu(e871d461930b46f7) #css ends */
@@ -20,16 +23,15 @@
     padding: 2.5rem 0
 }
 .aboutcded716dce36a6e8 .DescriptionHeading {
-    color: #584E8D;
-    font-size: 50px
+    color: #3C3B37;
+    font-size: 44px
 }
 .aboutcded716dce36a6e8 .DescriptionPara {
     color: #808080;
     font-size: 18px
 }
 .aboutcded716dce36a6e8 .badge{
-    color: #EA5252;
-    background-color: #F5F0F7
+    display: none
 }
 .aboutcded716dce36a6e8 .searchBtn{
     background-color: #EA5252;
@@ -42,7 +44,7 @@
 /* #campbell(campbelldy9djhgjfg) #css starts */
 .campbelldy9djhgjfg h1{
     font-size: 32px;
-    color: #584E8D
+    color: #3C3B37
 }
 /* #campbell(campbelldy9djhgjfg) #css ends */
 /*****campbell*****/
@@ -52,11 +54,17 @@
 .sliders1fae57451461b568{
     padding: 2.5rem 0
 }
+.sliders1fae57451461b568 h3{
+    font-weight: 600
+}
 .sliders1fae57451461b568 .text-success{
-    color: #584E8D!important
+    color: #3C3B37!important
 }
 .sliders1fae57451461b568 .btnStyle {
-    background-color: #584E8D
+    background-color: #FFC72C
+}
+.sliders1fae57451461b568 .icon {
+    color: #3C3B37
 }
 /* #suki(sliders1fae57451461b568) #css ends */
 /*****suki*****/
